@@ -1,0 +1,10 @@
+Props are children and attribute
+
+react can in not jsx also in js 
+
+root.render means it will render and  replace the element inside the element 
+
+
+react works whatever in small space also thats why it is called libray
+
+it can work independently 
