@@ -1,0 +1,28 @@
+{
+  "name": "nameste-react",
+  "version": "1.0.0",
+  "description": "Learning the react from namesthe js ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shankaranarayanansk/Nameste-Advanced-React-.git"
+  },
+  "keywords": [
+    "learn",
+    "gym",
+    "code",
+    "sleep"
+  ],
+  "author": "Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shankaranarayanansk/Nameste-Advanced-React-/issues"
+  },
+  "homepage": "https://github.com/Shankaranarayanansk/Nameste-Advanced-React-#readme",
+  "dependencies": {
+    "parcel": "^2.13.0"
+  }
+}
