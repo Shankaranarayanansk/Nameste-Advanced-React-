@@ -1,38 +1,38 @@
-{
-  "name": "nameste-react",
-  "version": "1.0.0",
-  "description": "Learning the react from namesthe js ",
-  "scripts": {
-    "start": "parcel index.html",
-    "build":"parcel build index.html",
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shankaranarayanansk/Nameste-Advanced-React-.git"
-  },
-  "keywords": [
-    "learn",
-    "gym",
-    "code",
-    "sleep"
-  ],
-  "author": "Shankar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Shankaranarayanansk/Nameste-Advanced-React-/issues"
-  },
-  "homepage": "https://github.com/Shankaranarayanansk/Nameste-Advanced-React-#readme",
-  "dependencies": {
-    "parcel": "^2.13.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "browserslist":
-  [
-    "last 2 version"
-  ],
-  "devDependencies": {
-    "process": "^0.11.10"
+ {
+    "name": "nameste-react",
+    "version": "1.0.0",
+    "description": "Learning the react from namesthe js ",
+    "scripts": {
+      "start": "parcel index.html",
+      "build":"parcel build index.html",
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Shankaranarayanansk/Nameste-Advanced-React-.git"
+    },
+    "keywords": [
+      "learn",
+      "gym",
+      "code",
+      "sleep"
+    ],
+    "author": "Shankar",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Shankaranarayanansk/Nameste-Advanced-React-/issues"
+    },
+    "homepage": "https://github.com/Shankaranarayanansk/Nameste-Advanced-React-#readme",
+    "dependencies": {
+      "parcel": "^2.13.0",
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1"
+    },
+    "browserslist":
+    [
+      "last 2 version"
+    ],
+    "devDependencies": {
+      "process": "^0.11.10"
+    }
   }
-}
